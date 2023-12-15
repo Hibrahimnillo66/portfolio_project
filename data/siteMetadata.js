@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Raphaël Chelly - Digital marketing project manager',
-  author: 'Raphaël Chelly',
-  headerTitle: 'Raphaël Chelly',
-  description: 'Portfolio of a digital marketing guy who codes a bit.',
+  title: 'Abraham Granillo - Software Developer',
+  author: 'Abraham Granillo',
+  headerTitle: 'Abraham Granillo',
+  description: 'Portfolio of an artsy guy who codes a bit.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.raphaelchelly.com/',
@@ -10,10 +10,10 @@ const siteMetadata = {
   siteLogo: '/static/images/raph-logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'hi@raphaelchelly.com',
-  github: 'https://github.com/raphaelchelly',
-  twitter: 'https://twitter.com/raphael_chelly',
-  linkedin: 'https://www.linkedin.com/in/raphaelchelly',
+  email: 'abraham.olague@gmail.com',
+  github: 'https://github.com/Hibrahimnillo66',
+  twitter: 'https://twitter.com/abra_ham_go',
+  linkedin: 'https://www.linkedin.com/in/abrahamgranillo/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

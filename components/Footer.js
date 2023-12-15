@@ -7,10 +7,10 @@ export default function Footer() {
     <footer>
       <div className="mt-16 mt-16 flex flex-col items-center">
         <div className="mb-3 flex space-x-4">
-          <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="5" />
-          <SocialIcon kind="github" href={siteMetadata.github} size="5" />
-          <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="5" />
-          <SocialIcon kind="twitter" href={siteMetadata.twitter} size="5" />
+          <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="5" color="red" />
+          <SocialIcon kind="github" href={siteMetadata.github} size="5" color="green" />
+          <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="5" color="green" />
+          <SocialIcon kind="twitter" href={siteMetadata.twitter} size="5" color="violet" />
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{`© ${new Date().getFullYear()}`}</div>
@@ -19,25 +19,26 @@ export default function Footer() {
         </div>
         <div className="mb-8 flex flex-col space-x-2 text-sm text-gray-500 dark:text-gray-400 md:flex-row">
           <Link
-            className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
+            className="transform transition-transform hover:scale-110 hover:font-bold hover:text-blue-600 dark:hover:text-blue-600"
             href="/"
           >
             home
           </Link>
-          <Link
-            className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
+
+          {/* <Link
+            className="transform transition-transform hover:scale-110 hover:font-bold hover:text-blue-600 dark:hover:text-blue-600"
             href="/blog"
           >
             notes
-          </Link>
+          </Link> */}
           <Link
-            className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
+            className="transform transition-transform hover:scale-110 hover:font-bold hover:text-blue-600 dark:hover:text-blue-600"
             href="/projects"
           >
             projects
           </Link>
           <Link
-            className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
+            className="transform transition-transform hover:scale-110 hover:font-bold hover:text-blue-600 dark:hover:text-blue-600"
             href="/about"
           >
             about

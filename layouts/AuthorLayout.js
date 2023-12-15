@@ -19,7 +19,7 @@ export default function AuthorLayout({ children, frontMatter }) {
           <div className="darK:bg-slate-100 flex flex-col items-center rounded-lg bg-slate-700 bg-opacity-10 p-2 text-center md:flex-row">
             <div>
               <Image
-                src="/static/images/avatar.jpg"
+                src="/static/images/About2.jpg"
                 alt="avatar"
                 width="150px"
                 height="150px"
@@ -30,10 +30,10 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="text-gray-500 dark:text-gray-400">{occupation}</div>
             <div className="text-gray-500 dark:text-gray-400">{company}</div>
             <div className="flex space-x-3 py-6 px-4 md:py-0 md:px-6">
-              <SocialIcon kind="mail" href={`mailto:${email}`} size={5} />
-              <SocialIcon kind="github" href={github} size={5} />
-              <SocialIcon kind="linkedin" href={linkedin} size={5} />
-              <SocialIcon kind="twitter" href={twitter} size={5} />
+              <SocialIcon kind="mail" href={`mailto:${email}`} size={5} color="red" />
+              <SocialIcon kind="github" href={github} size={5} color="green" />
+              <SocialIcon kind="linkedin" href={linkedin} size={5} color="green" />
+              <SocialIcon kind="twitter" href={twitter} size={5} color="violet" />
             </div>
           </div>
         </div>
