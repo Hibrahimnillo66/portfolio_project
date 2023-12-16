@@ -9,37 +9,34 @@ linkedin: https://www.linkedin.com/in/abrahamgranillo
 github: https://github.com/Hibrahimnillo66
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Hello there! 👋 I'm **Abraham**, a passionate artsy person who also happens to be a **Software Engineer** based in **Monterrey**, México. With a blend of creativity and technical skills, I specialize on Web Projects with a focus on **Front End Technologies**. My journey in the **Tech Industry** has been driven by a fascination for the limitless creativity and purpose to make a difference.
 
-- [💼 Experience](#experience)
-- [🧑🏻‍💻 Side Project](#side-project)
-- [🎓 Education](#education)
-- [🤹🏼‍♂️ Skills](#skills)
-- [🏐 Interests](#interests)
+ [🌟 Experience](#experience) --- [🚧🧑🏻‍💻 Projects](#side-project) --- [🎓 Education](#education) --- [🎯 Skills](#skills) --- [⚽ Interests](#interests)
+
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Software Engineer @**[TCS](https://tcs.com)**
 
-`Oct 2021 - Today`
+`Mar 2021 - Today`
 
 Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Software Engineer @[WestonDev](https://westondev.com/)
 
-`Sept 2019 - Sept 2020`
+`Nov 2020 - Feb 2021`
 
 Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
+### Software Engineer @[Accenture](https://accenture.com)
 
-`Jan 2019 - Jul 2019`
+`Jan 2020 - Nov 2020`
 
 As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
 
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
+### Software Engineer @[CitiBoys](https://google.com)
 
-`Jul 2018 - Jan 2019`
+`Jun 2019 - Jan 2020`
 
 Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
 
@@ -55,7 +52,9 @@ Creation of a communication agency in the form of a micro-enterprise. Fabrilab s
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Bachelor in International Business @[UANL](https://www.uanl.mx/)
+### Bachelor in International Business @[Rennes School of Business](https://www.rennes-sb.com/)
+### Fullstack Development Program @[Tec de Monterrey](https://tec.mx/es)
 
 `Sept 2016 - Sept 2020`
 
@@ -63,46 +62,55 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 
 ## Skills
 
-### Hard Skills:
-
-- 🇬🇧 English
-- 🇪🇸 Spanish
-- 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+<div class="flex flex-col md:flex-row">
+  <div class="md:w-1/2">
+    - 🇬🇧 English
+    - 🇪🇸 Spanish
+    - 🇫🇷 French
+    - 🇵🇹 Portuguese
+    - ⚛️ React
+    - 🌐 JavaScript
+    - 💼 TypeScript
+  </div>
+  <div class="md:w-1/2">
+    - 🔥 Firebase
+    - ⚡ Next.js
+    - 🎨 Tailwind
+    - ☕ Java
+    - 🚀 Spring Boot
+    - 📊 Git
+  </div>
+</div>
 
 ### Soft Skills:
 
 - 🎨 Creative
 - 📚 Curious
 - 🤝🏼 Team Spirit
+- 🤔 Decision Making
+- 🚴 Perseverance
+
 
 ## Interests
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
-- 🏊🏼‍♂️ Swimming
+<div class="flex flex-col md:flex-row">
+  <div class="md:w-1/2">
+    - ⚽ Football
+    - ⚾ Soccer
+    - 🥊 Boxing
+    - 👊 MMA
+  </div>
+  <div class="md:w-1/2">
+    - 🗺️ Discovery and Traveling
+    - 📷 Photography
+    - 🎶 Music
+    - 🎨 Painting
+  </div>
+</div>
 
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
 
-### Others:
-
-- 🗺️ Discovery and Traveling
-- 📷 Photography
-- 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
-
-### Humanitarian:
-
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
 
 ### Other Experiences:
 

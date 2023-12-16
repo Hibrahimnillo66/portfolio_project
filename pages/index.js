@@ -25,10 +25,10 @@ export default function Home({ posts }) {
       <div className="space-y-2 pt-6 pb-4 md:space-y-5">
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
-            <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-7xl">
+            <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 hover:text-blue-600 dark:text-white md:text-7xl">
               Abraham Granillo
             </h1>
-            <h2 className="mb-1 text-2xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
+            <h2 className="mb-1 text-2xl font-bold tracking-tight text-zinc-600 hover:text-red-600 dark:text-white md:text-2xl">
               Portfolio of an artsy guy who codes a bit.
             </h2>
           </div>
@@ -57,12 +57,9 @@ export default function Home({ posts }) {
               UANL
             </a>
             , Passionate and results-driven Software Engineer with expertise in React, JavaScript,
-            Node, OOP. Committed to creating robust and efficient applications that provide
-            exceptional user experiences. Skilled in front-end and back-end development, I bring a
-            collaborative mindset and a keen eye for detail to every project. With a strong focus on
-            continuous learning and staying up-to-date with industry trends, I thrive in dynamic and
-            fast-paced environments. Let's connect and discuss how we can build groundbreaking
-            software solutions together.{' '}
+            Node, OOP. Skilled in front-end and back-end development, I bring a collaborative
+            mindset and a keen eye for detail to every project. Let's connect and discuss how we can
+            build exceptional software solutions together.{' '}
           </p>
         </p>
         {/* <div className="mt-8 flex flex-wrap gap-4 text-center">
