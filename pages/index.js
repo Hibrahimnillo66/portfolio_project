@@ -33,23 +33,14 @@ export default function Home({ posts }) {
             </h2>
           </div>
           <div className="relative mb-8 ml-10 w-full sm:mb-0 sm:w-[200px]">
-            {/* <Image
-              src="/static/images/perfil1.png"
+            <Image
+              src="/static/images/perfil1.PNG"
               alt="avatar"
               width="400px"
               height="500px"
               className="rounded-full border-4 border-white"
               style={{
                 borderRadius: '46% 54% 64% 36% / 61% 44% 56% 39%',
-              }} */}
-            <Image
-              src="/static/images/perfil1.png"
-              alt="avatar"
-              width="400px"
-              height="500px"
-              className="rounded-full border-4 border-white"
-              style={{
-                borderRadius: '50%', // Set the border radius to 50% for a perfect circle
               }}
             />
           </div>
