@@ -36,8 +36,8 @@ export default function Home({ posts }) {
             <Image
               src="/static/images/perfil1.PNG"
               alt="avatar"
-              width="400px"
-              height="500px"
+              width="250px"
+              height="300px"
               className="rounded-full border-4 border-white"
               style={{
                 borderRadius: '46% 54% 64% 36% / 61% 44% 56% 39%',
@@ -49,17 +49,21 @@ export default function Home({ posts }) {
           <p className="my-4 leading-loose">
             Graduated from{' '}
             <a
-              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
+              className="focusable rounded-sm font-medium text-zinc-800"
               href="https://www.uanl.mx/"
               rel="noreferrer"
               target="_blank"
             >
               UANL
             </a>
-            , Passionate and results-driven Software Engineer with expertise in React, JavaScript,
-            Node, OOP. Skilled in front-end and back-end development, I bring a collaborative
-            mindset and a keen eye for detail to every project. Let's connect and discuss how we can
-            build exceptional software solutions together.{' '}
+            , Passionate and results-driven Software Engineer with expertise in
+            <span className="focusable rounded-sm font-medium text-zinc-800">
+              {' '}
+              React, JavaScript, Node, OOP.
+            </span>
+            Skilled in front-end and back-end development, I bring a collaborative mindset and a
+            keen eye for detail to every project. Let's connect and discuss how we can build
+            exceptional software solutions together.{' '}
           </p>
         </p>
         {/* <div className="mt-8 flex flex-wrap gap-4 text-center">

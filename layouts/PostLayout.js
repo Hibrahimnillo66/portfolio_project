@@ -69,14 +69,14 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           <div className="pb-8 " style={{ gridTemplateRows: 'auto 1fr' }}>
             <div className=" xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pb-4 dark:prose-dark">{children}</div>
-              <div className="flex justify-between pt-6 text-sm text-gray-700 dark:text-gray-300">
+              {/* <div className="flex justify-between pt-6 text-sm text-gray-700 dark:text-gray-300">
                 <Link href={editUrl(fileName)}>{'Have a nice day 🌞'}</Link>
                 <Link href={discussUrl(slug)} rel="nofollow">
                   {'Discuss on Twitter'}
                 </Link>
-              </div>
+              </div> */}
             </div>
-            <footer>
+            {/* <footer>
               <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
                 {prev && (
                   <div className="pt-2 xl:pt-8">
@@ -99,7 +99,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </div>
                 )}
               </div>
-            </footer>
+            </footer> */}
           </div>
         </div>
       </article>

@@ -20,45 +20,41 @@ Hello there! 👋 I'm **Abraham**, a passionate artsy person who also happens to
 
 `Mar 2021 - Today`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
 
 ### Software Engineer @[WestonDev](https://westondev.com/)
 
 `Nov 2020 - Feb 2021`
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
 
 ### Software Engineer @[Accenture](https://accenture.com)
 
 `Jan 2020 - Nov 2020`
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
 
 ### Software Engineer @[CitiBoys](https://google.com)
 
 `Jun 2019 - Jan 2020`
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
-
 ## Side Project
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+### Cofounder & Project Manager @[Think Academy](https://courses-project-sepia.vercel.app/)
 
-`Sept 2017 - Today`
+`Sept 2023 - Today`
 
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
+LMS web site capable of providing recorded clases and advertise courses of any kind
 
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- Main clients : Students, Academies
 
 ## Education
 
 ### Bachelor in International Business @[UANL](https://www.uanl.mx/)
+
+`Oct 2008 - Dec 2012`
+
 ### Bachelor in International Business @[Rennes School of Business](https://www.rennes-sb.com/)
-### Fullstack Development Program @[Tec de Monterrey](https://tec.mx/es)
 
-`Sept 2016 - Sept 2020`
+`Jan 2012 - Jul 2012`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
 
 ## Skills
 
@@ -114,11 +110,5 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 
 ### Other Experiences:
 
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- **2019:** Fullstack Development Program @[Tec de Monterrey](https://tec.mx/es)
+- **2012:** International Student Ambassador@[Rennes School of Business](https://www.rennes-sb.com/) (2-month fixed-term contract)

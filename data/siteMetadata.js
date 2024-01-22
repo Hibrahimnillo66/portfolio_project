@@ -5,9 +5,9 @@ const siteMetadata = {
   description: 'Portfolio of an artsy guy who codes a bit.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.raphaelchelly.com/',
-  siteRepo: 'https://github.com/raphaelchelly/raph_www',
-  siteLogo: '/static/images/raph-logo.png',
+  siteUrl: '',
+  siteRepo: '',
+  siteLogo: '/static/images/logo-no-background.svg',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'abraham.olague@gmail.com',
